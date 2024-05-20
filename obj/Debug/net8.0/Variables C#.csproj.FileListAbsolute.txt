@@ -1,0 +1,28 @@
+C:\Users\Matheus\Desktop\Variables C#\bin\Debug\net8.0\Variables C#.exe
+C:\Users\Matheus\Desktop\Variables C#\bin\Debug\net8.0\Variables C#.deps.json
+C:\Users\Matheus\Desktop\Variables C#\bin\Debug\net8.0\Variables C#.runtimeconfig.json
+C:\Users\Matheus\Desktop\Variables C#\bin\Debug\net8.0\Variables C#.dll
+C:\Users\Matheus\Desktop\Variables C#\bin\Debug\net8.0\Variables C#.pdb
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.dll
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\refint\Variables C#.dll
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.pdb
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\Variables C#.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Variables C#\obj\Debug\net8.0\ref\Variables C#.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\refint\Variables C#.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\bin\Debug\net8.0\Variables C#.exe
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\bin\Debug\net8.0\Variables C#.deps.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\bin\Debug\net8.0\Variables C#.runtimeconfig.json
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\bin\Debug\net8.0\Variables C#.dll
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\bin\Debug\net8.0\Variables C#.pdb
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\Variables C#.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\Estudo C# - MOD 1\obj\Debug\net8.0\ref\Variables C#.dll
